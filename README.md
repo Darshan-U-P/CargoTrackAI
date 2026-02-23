@@ -97,7 +97,7 @@ yolo detect train   model=yolov8n.pt   data=train/data.yaml   epochs=50   imgsz=
 
 After training completes, model weights are saved in:
 
-    runs/detect/train/weights/best.pt
+    runs/detect/train7/weights/best.pt
 
 ------------------------------------------------------------------------
 
