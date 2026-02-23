@@ -137,6 +137,9 @@ Counting rule:
 3.  Each object is counted only once
 
 This prevents duplicate counting.
+``` bash
+python count_conveyor.py
+```
 
 ------------------------------------------------------------------------
 
