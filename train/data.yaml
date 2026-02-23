@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['box']
+
+roboflow:
+  workspace: darshan-4svtd
+  project: my-first-project-mazse
+  version: 2
+  license: Private
+  url: https://app.roboflow.com/darshan-4svtd/my-first-project-mazse/2
