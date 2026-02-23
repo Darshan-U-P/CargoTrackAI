@@ -199,3 +199,8 @@ demonstration of applied AI in monitoring systems.
 # 📜 License
 
 This project is licensed under the MIT License.
+
+
+-------------------------------------------------------------------------
+<img width="2400" height="1200" alt="results" src="https://github.com/user-attachments/assets/5b57f70b-73d0-4ca1-b41e-d6804c0d6807" />
+
