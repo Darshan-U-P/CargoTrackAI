@@ -205,13 +205,6 @@ demonstration of applied AI in monitoring systems.
 <img width="3000" height="2250" alt="confusion_matrix" src="https://github.com/user-attachments/assets/6edcd664-8496-4682-929b-64f869565907" />
 <img width="3000" height="2250" alt="confusion_matrix_normalized" src="https://github.com/user-attachments/assets/7eed8a87-095b-4672-9b32-6864c21db164" />
 
---------------------------------------------------------------------------
-## train_batch images
-
-![train_batch2](https://github.com/user-attachments/assets/93071d98-8036-4c08-9947-572357829ff3)
-
-![train_batch1](https://github.com/user-attachments/assets/f0a79295-4fc2-496a-bd51-17e131fbf6e8)
-
 -------------------------------------------------------------------------
 
 ## result
